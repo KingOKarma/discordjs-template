@@ -1,6 +1,6 @@
 # discordjs-template
 
-##How to use
+## How to use
 
 ```
 $ git clone https://github.com/KingOKarma/discordjs-template
@@ -20,7 +20,7 @@ $ node .
 to run index.js
 ```
 
-###If you are running on a server/VPS
+### If you are running on a server/VPS
 - you can use pm2
 ```
 enter your src folder
@@ -29,7 +29,7 @@ to check logs you can do
 $ pm2 logs <name>
 ```
 
-###Extra info
+### Extra info
 - This same template was used to start off [KFC Bucket Boy](https://github.com/KingOKarma/KFCBoy)
 
 - If you want to add new commands, follow the template used in `src/commands/fun/kek.js`
@@ -41,7 +41,7 @@ $ pm2 logs <name>
 - When making asynchronous cmds you can follow the template in `src/commands/testing/ping.js`
 
 
-###Enjoy
+### Enjoy
 - Make sure to also check out https://bucketbot.dev
 
 
