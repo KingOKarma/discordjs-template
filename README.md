@@ -5,7 +5,7 @@
 ```
 $ git clone https://github.com/KingOKarma/discordjs-template
 $ npm init
-Go through accordingly (if you dont know what  to put just press enter
+Go through accordingly (if you dont know what  to put just press enter)
 $ npm install discord.js
 ```
 - Once the terminal cmds have been ran make sure to add your token and prefix into `src/config.json`
